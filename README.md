@@ -1,5 +1,5 @@
 # Administrador
-Bienvenido al reposotorio ADMINISTRADOR Para Echotecnology
+Bienvenido al reposotorio App Empresas, Para Echotecnology
 
  EXAMEN PARA PRACTICAS PROFESIONALES
 
@@ -11,7 +11,7 @@ DESPLIEGA Y EJECUTA LA APLICACION:
 1- Abre el IDE Apache NetBeans
 2-Conecta la base de datos con con el proyecto creado, en especifico en la claseComunDB de la carpeta AccesoADatos
 3-Ingrsa  usuario y contraseña de usuario sa: Esta opcion se habilita en el Sql Server
-4-Compila tu proyecto: Das clic drecho sobre el proyecto y selecionas la opcion build o build and clean
+4-Compila tu proyecto: Das clic derecho sobre el proyecto y seleccionas la opcion build o build and clean
 5- Haces clic derecho en tu proyecto y selecciona "Run". NetBeans desplegará la aplicación en tu servidor y
 abrirá un navegador web para mostrar la aplicación.
 
