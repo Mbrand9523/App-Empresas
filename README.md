@@ -1,4 +1,4 @@
-# Administrador
+# App Empresas.
 Bienvenido al reposotorio App Empresas, Para Echotecnology
 
  EXAMEN PARA PRACTICAS PROFESIONALES
